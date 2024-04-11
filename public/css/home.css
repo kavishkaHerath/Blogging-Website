@@ -11,7 +11,7 @@ body{
 }
 
 ::selection{
-    background-color: #1b1b1b;
+    background: #1b1b1b;
     color: #fff;
 }
 
@@ -25,7 +25,7 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 0 5vw;
-    background-color: #fff;
+    background: #fff;
     z-index: 9;
 }
 
